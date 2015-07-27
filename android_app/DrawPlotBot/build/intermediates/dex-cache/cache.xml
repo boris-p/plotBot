@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-d1dbfc7444b68580a36311d21af0b9c69341d79e.jar" />
+    </item>
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\classes-35e863513296c289a916146f9c2441d43335cc15.jar" />
+    </item>
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-0f4719ccaa66bebfc57c57634ab898cfa3148b36.jar" />
+    </item>
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\classes-af5eba87bdc61827ec84c672b9b96aa1915ee194.jar" />
+    </item>
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-98b7ba61412d0211a160061c43abae2a399f50b2.jar" />
+    </item>
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\pre-dexed\debug\classes-a413044bae3a035d5f61fcb843626648290d4a20.jar" />
+    </item>
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\classes-ce4ae170331aa757f33cb6fd8213c5ec662f5d3f.jar" />
+    </item>
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\pre-dexed\debug\classes-f6457fe8db22f66c2b61e89366cbe45086d6202a.jar" />
+    </item>
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-81284682c265584d802a76a068c85727520b4de7.jar" />
+    </item>
+    <item
+        jar="C:\Users\boris\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-34905b8b5d84e82774bc94b8652670b5f0d6fc12.jar" />
+    </item>
+    <item
+        jar="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="D:\boris\_School\exchange\_6\out_of_the_box\android_studio\BasicGestureDetect_2\Application\build\intermediates\pre-dexed\debug\classes-ea11021dc3583f1c091300a1eebbe02163cae487.jar" />
+    </item>
+
+</items>
